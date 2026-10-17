@@ -1,0 +1,92 @@
+{
+    "status": "success",
+    "data": {
+        "config": {
+            "configId": "dd679737-1d37-4fff-a75c-c754c034a498",
+            "userId": "xEZPz5DTERdrdNRHkiRskKmwH6m1",
+            "productId": "01a10374-efe6-7374-b50c-61b0c1ee08ab",
+            "orderCode": "79125471283",
+            "retention": "PERMANENT",
+            "expiredAt": null,
+            "settings": {
+                "finale": {
+                    "texts": [
+                        "20.10",
+                        "Yêu Em",
+                        "I LOVE YOU"
+                    ],
+                    "message": "Cảm ơn em vì đã đến bên anh",
+                    "loveStart": "2023-06-01",
+                    "counterLabel": "Mình đã bên nhau"
+                },
+                "letter": {
+                    "text": "Hôm nay là ngày của em — ngày anh được nói lời cảm ơn nhiều hơn một chút.\n\nCảm ơn em vì đã luôn dịu dàng, kiên nhẫn và rạng rỡ như những bông hoa đẹp nhất. Cảm ơn em vì những ngày bình thường bỗng trở nên đáng nhớ chỉ vì có em ở đó.\n\nChúc em luôn xinh đẹp, bình an và được yêu thương thật nhiều — không chỉ hôm nay mà là mỗi ngày.\n\nAnh yêu em.",
+                    "image": "https://pub-ab1c2d427da645d1b54b033cfa8bad0f.r2.dev/01a10374-efe6-7374-b50c-61b0c1ee08ab/xEZPz5DTERdrdNRHkiRskKmwH6m1/letter/01a1047c-9dc8-7248-beeb-b3a4b3948230.png",
+                    "title": "Gửi em yêu",
+                    "caption": "",
+                    "signature": "Anh của em"
+                },
+                "appIcon": "https://cdn.festgift.top/projects/womens-day/images/icons/couple.png",
+                "bgMusic": "https://cdn.festgift.top/projects/musics/givemeyourforever.mp3",
+                "bouquet": {
+                    "color": "red",
+                    "count": 11,
+                    "title": "Tặng em bó hoa không bao giờ tàn",
+                    "subtitle": "Hoa thật rồi sẽ héo, nhưng bó hoa này sẽ nở mãi — như cách anh thương em mỗi ngày."
+                },
+                "giftBox": {
+                    "image": "https://pub-ab1c2d427da645d1b54b033cfa8bad0f.r2.dev/01a10374-efe6-7374-b50c-61b0c1ee08ab/xEZPz5DTERdrdNRHkiRskKmwH6m1/giftBox/01a1047c-a260-7d05-b407-ea7172b72161.jpeg",
+                    "message": "Tối 20/10, 7 giờ — anh đón em đi ăn tối nhé! 🌹"
+                },
+                "appTitle": "Món Quà Nhỏ",
+                "bgVolume": 0.55,
+                "calendar": {
+                    "day": 20,
+                    "month": 10,
+                    "title": "Ngày Phụ nữ Việt Nam",
+                    "caption": "Ngày của em"
+                },
+                "passcode": "",
+                "expiresAt": null,
+                "heartName": "Em Yêu",
+                "linkResult": "https://c.festgift.top?id=",
+                "morphTexts": [
+                    "Chúc Mừng 20/10",
+                    "Gửi Em Yêu"
+                ],
+                "linkProduct": "https://c.festgift.top/create.html",
+                "productType": "20-10",
+                "enableFinale": true,
+                "enableLetter": true,
+                "enableSphere": true,
+                "sphereImages": [
+                    "https://pub-ab1c2d427da645d1b54b033cfa8bad0f.r2.dev/01a10374-efe6-7374-b50c-61b0c1ee08ab/xEZPz5DTERdrdNRHkiRskKmwH6m1/sphere-0/01a1047c-a70a-7929-8e8c-e47395d94361.jpeg",
+                    "https://pub-ab1c2d427da645d1b54b033cfa8bad0f.r2.dev/01a10374-efe6-7374-b50c-61b0c1ee08ab/xEZPz5DTERdrdNRHkiRskKmwH6m1/sphere-1/01a1047c-a786-7af5-968e-05c46ab7934a.jpeg",
+                    "https://pub-ab1c2d427da645d1b54b033cfa8bad0f.r2.dev/01a10374-efe6-7374-b50c-61b0c1ee08ab/xEZPz5DTERdrdNRHkiRskKmwH6m1/sphere-2/01a1047c-a76a-7b38-a645-6411589d60ae.jpeg",
+                    "https://pub-ab1c2d427da645d1b54b033cfa8bad0f.r2.dev/01a10374-efe6-7374-b50c-61b0c1ee08ab/xEZPz5DTERdrdNRHkiRskKmwH6m1/sphere-3/01a1047c-a90c-7bb5-a5bb-4a539ce6c75e.jpeg",
+                    "https://pub-ab1c2d427da645d1b54b033cfa8bad0f.r2.dev/01a10374-efe6-7374-b50c-61b0c1ee08ab/xEZPz5DTERdrdNRHkiRskKmwH6m1/sphere-4/01a1047c-a751-7f94-ac17-95fda2842f3a.jpeg",
+                    "https://pub-ab1c2d427da645d1b54b033cfa8bad0f.r2.dev/01a10374-efe6-7374-b50c-61b0c1ee08ab/xEZPz5DTERdrdNRHkiRskKmwH6m1/sphere-5/01a1047c-a930-7d06-8939-f856258ece6f.jpeg"
+                ],
+                "enableBouquet": true,
+                "enableGiftBox": true,
+                "particleImage": "https://pub-ab1c2d427da645d1b54b033cfa8bad0f.r2.dev/01a10374-efe6-7374-b50c-61b0c1ee08ab/xEZPz5DTERdrdNRHkiRskKmwH6m1/particleImage/01a1047c-abbc-78e4-9815-ee3d4e734e9e.png",
+                "passcodeTitle": "",
+                "recipientName": "Em",
+                "enableCalendar": true,
+                "enablePasscode": false,
+                "flyingCaptions": [
+                    "Yêu em ♥",
+                    "Nụ cười của em",
+                    "Mãi bên nhau nhé"
+                ],
+                "passcodeSubtitle": "",
+                "enableMorphEffect": true,
+                "enableWebsiteInfo": false,
+                "particleImageShape": "heart",
+                "enableSphereFlyingImages": true
+            },
+            "createdAt": "2026-10-04T01:17:23.341Z",
+            "updatedAt": "2026-10-04T04:47:54.235Z"
+        }
+    }
+}
